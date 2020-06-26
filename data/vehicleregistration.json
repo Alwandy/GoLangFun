@@ -1,0 +1,34 @@
+{
+ "registrations": [
+  {
+   "registration": "10-D-555555",
+   "brand": "Fiat",
+   "colour": "Red",
+   "owner": "Jane Doe"
+  },
+  {
+   "registration": "10-D-555551",
+   "brand": "Fiat",
+   "colour": "Red",
+   "owner": "Jane Doe"
+  },
+  {
+   "registration": "10-D-552551",
+   "brand": "Fiat",
+   "colour": "Red",
+   "owner": "Jane Doe"
+  },
+  {
+   "registration": "10-D-55251",
+   "brand": "Fiat",
+   "colour": "Red",
+   "owner": "Jane Doe"
+  },
+  {
+   "registration": "",
+   "brand": "",
+   "colour": "",
+   "owner": ""
+  }
+ ]
+}
